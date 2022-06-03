@@ -8,7 +8,7 @@ from math import sin, exp, pi
 import math
 
 
-# metodą prostokątów:
+# metodą prostokątow:
 
 def integrate(function, a, b, i):
     dx = (b - a) / i
